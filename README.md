@@ -12,9 +12,13 @@ Design and implement a control algorithm with its electromechanical system assoc
 ## Specific objectives. 
 
 1.- Determine characteristics of commercial sensors and actuators according to design.
+
 2.- Design control algorithm.
+
 3.- Design corresponding electronics to control the electromechanical system.
+
 4.- Implement the control system.
+
 5.- Test the operation of the control system.
 
 ## Abstract.
