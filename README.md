@@ -3,7 +3,7 @@ Design of a control algorithm for a testing bench of sinusoidal, random and shoc
 
 ## Year: 2020 - 2021.
 
-### Research Code: (SIP20202013).
+### Research Code: SIP20202013.
 
 ## General objective.
 
