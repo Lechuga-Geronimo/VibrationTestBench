@@ -3,8 +3,6 @@ Design of a control algorithm for a testing bench of sinusoidal, random and shoc
 
 ## Year: 2020 - 2021.
 
-### Research Code: SIP20202013.
-
 ## General objective.
 
 Design and implement a control algorithm with its electromechanical system associated with a test bench of sinusoidal, random and shock mechanical vibrations for CubeSats from 1U to 3U.
@@ -27,4 +25,4 @@ Mexico is a country that is technologically behind by almost 80 years in the fie
 
 A fundamental point in the development of space vehicles, and especially satellites, is their validation to guarantee their operation in the space environment. One of the fundamental validations is the mechanical vibration tests, which ensure that the device will resist the stresses caused by the vibrations to which it will be subjected during its transportation, launch and operation throughout its useful life. To do this, three types of strict tests are carried out: sinusoidal, random vibrations and mechanical shock, which are regulated by the NASA GEVS standard: GSFC-STD-7000 A.
 
-This project proposes the design and implementation of an algorithm together with its electromechanical system that allows carrying out said mechanical vibration tests at the three levels of strictness provided by the aforementioned standard: prototype, proto-flight and acceptance, providing tests standardized, redundant and automated for CubeSats of 1 to 3 units developed in Mexico and particularly in the IPN at affordable costs for third world countries, which would even allow the Institute to provide this service at the regional level (Latin America).
+This project proposes the design and implementation of an algorithm together with its electromechanical system that allows carrying out said mechanical vibration tests at the three levels of strictness provided by the aforementioned standard: prototype, proto-flight and acceptance, providing tests standardized, redundant and automated for CubeSats of 1 to 3 units developed in Mexico at affordable costs for third world countries, which would even allow the Institute to provide this service at the regional level (Latin America).
